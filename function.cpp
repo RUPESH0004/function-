@@ -61,7 +61,7 @@ int factorial(int n)
 int main()
 {
     int n;
-    cout << "Enter the no you want fibonacchi" << endl;
+    cout << "Enter the no " << endl;
     cin >> n;
     fib(n);
     isPrime(n);
